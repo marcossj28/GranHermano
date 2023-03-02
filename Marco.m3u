@@ -5,3 +5,9 @@ https://siloh.pluto.tv/lilo/production/GranHermano/J8473924d9c83s484758d9485603s
 
 #EXTINF:-1 ,Gran Hermano
 https://siloh.pluto.tv/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8?GH2022HD.com
+
+#EXTINF:-1 ,Ovación
+cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,Best Cable Sports
+https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablesports&stream=bestcablesports
